@@ -1,0 +1,11 @@
+@import "../styles/colors.scss";
+
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  // background-color: #F4FCFC;
+  background-color: $background;
+}
